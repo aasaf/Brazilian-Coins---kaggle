@@ -1,5 +1,5 @@
 
-1) Download the dataset from kaggle link  - https://www.kaggle.com/lgmoneda/br-coins
+1) Download the dataset from kaggle - https://www.kaggle.com/lgmoneda/br-coins
 2) Extract 2 directories (classification_dataset and regression dataset)
     (a) For input_classification_path
     (b) For input_regression_path
