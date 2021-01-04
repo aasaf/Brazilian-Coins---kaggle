@@ -4,8 +4,8 @@
 ## Dataset
 Download the dataset from Kaggle - https://www.kaggle.com/lgmoneda/br-coins
 Extract 2 directories (classification_dataset and regression dataset) 
-    (a) For input_classification_path 
-    (b) For input_regression_path
+(a) For input_classification_path 
+(b) For input_regression_path
     
 ## Create 2 empty directories for outputs -  
     (a) For classification model dataset (will be our <output_classification_path> for the classification model) 
