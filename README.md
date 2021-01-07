@@ -17,5 +17,5 @@ Download the dataset from Kaggle - https://www.kaggle.com/lgmoneda/br-coins
     (b) Run build_classification_dataset.py
 ##  Coins summary
     Run main.py
-    This file will fit a classification coins model that return ~98% accuracy.
-    Than it detect the coins and sum them each image separatly.
+    This file is create a classification coins model that return ~98% accuracy.
+    Then detect the coins and sum them each image separatly.
