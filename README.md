@@ -15,6 +15,7 @@ Download the dataset from Kaggle - https://www.kaggle.com/lgmoneda/br-coins
     To create the dataset for our classifier model we need to detect exactly the coins in each image, crop them, and save them. 
     (a) Edit the file build_classification_dataset.py and change your input_classification_path and output_classification_path 
     (b) Run build_classification_dataset.py
-    Return ~98% auc :)
 ##  coins summary
     Run main.py
+    This file will fit a classification coins model that return ~98% accuracy.
+    Than it detect the coins and sum them each image separatly.
