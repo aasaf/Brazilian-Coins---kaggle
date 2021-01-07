@@ -17,4 +17,4 @@ Download the dataset from Kaggle - https://www.kaggle.com/lgmoneda/br-coins
     (b) Run build_classification_dataset.py
     Return ~98% auc :)
 ##  coins summary
-    run maim.py
+    Run main.py
